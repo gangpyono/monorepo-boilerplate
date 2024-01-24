@@ -1,1 +1,3 @@
-packages: -'packages/*'
+# prettier-ignore
+packages: 
+  - packages/*
